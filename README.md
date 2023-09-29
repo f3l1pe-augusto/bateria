@@ -1,3 +1,3 @@
-# Olá, Este projeto é o projeto de um teclado com sons de bateria.
+# Olá, Este é um projeto de teclado com sons de bateria.
 
 Realizado com auxílio dos curso de JavaScript para web da Alura
